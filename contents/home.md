@@ -1,4 +1,4 @@
-[![git-kumiko](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![git-kumiko](https://img.shields.io/badge/git-kumiko-github-blue?logo=github)](https://github.com/git-kumiko)
 
 I'm currently learning in a S.H.S.
 
